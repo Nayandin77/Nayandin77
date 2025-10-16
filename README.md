@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nayandin77
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently developing sites for my perosonal company
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently developing applications for my company - Validone LLC
